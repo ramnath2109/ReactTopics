@@ -1,0 +1,49 @@
+.counter-container {
+    text-align: center;
+    margin-top: 20px;
+    width: 90%;
+    height:700px;
+    margin-left: 5%;
+    background-color: rgb(255, 255, 255);
+  }
+  h3{
+    text-align: start;
+    
+  }
+  h1{
+    text-align: center;
+    color: #9b2d01;
+    font-size: 30px;
+  }
+  h2{
+    text-align: start;
+    font-weight: bold;
+    color: #9b2d01;
+    font-size: 30px;
+  }
+  .counter-display {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .counter-buttons {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .counter-button {
+    margin: 0 10px;
+    padding: 12px 24px; /* Adjusted padding to make the buttons bigger */
+    border: 1px solid #000000;
+    border-radius: 8px; /* Increased border radius for rounded corners */
+    background-color: #061b75;
+    cursor: pointer;
+    text-align: center; /* Center aligning button text */
+    color: #ccc;
+  }
+  
+  .counter-button:hover {
+    background-color: #e0e0e0;
+    color: #061b75;
+  }
+  
