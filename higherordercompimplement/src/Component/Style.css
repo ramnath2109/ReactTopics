@@ -1,0 +1,19 @@
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px; /* Optional: Set a fixed height if needed */
+  }
+  .con2 button{
+            align-items: center;
+            margin-left: 45%;
+            width: 150px;
+            height:50px;
+            background-color: blue;
+            color: aliceblue;
+            font-size: 20px;
+            border-radius: 5px;
+  }
+  .con p{
+    text-align: center;
+  }
