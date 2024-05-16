@@ -1,0 +1,50 @@
+/* ChildComponent.css */
+
+.container {
+    width: 90vw;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .container h2 {
+    font-size: 18px;
+    color: #681818;
+  }
+  
+  .container img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .container h3 {
+    font-size: 16px;
+    color: #000000;
+  }
+  
+  .container ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .container li {
+    margin-bottom: 10px;
+  }
+  
+  .container button {
+    
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .container button:hover {
+    background-color: #0056b3;
+  }
+  
