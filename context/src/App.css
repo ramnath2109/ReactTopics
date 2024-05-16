@@ -1,0 +1,22 @@
+/* styles.css */
+
+/* Header styles */
+header {
+  background: #fff;
+  color: #333;
+  padding: 20px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Dark mode styles */
+header.dark {
+  background: #333;
+  color: #fff;
+}
+.context{
+  background-color: #ffffff;
+  width:90%;
+  height:auto;
+  margin-left: 5%;
+  margin-top: 50px;
+}

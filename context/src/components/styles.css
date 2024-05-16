@@ -1,0 +1,38 @@
+/* styles.css */
+
+.button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+h1{
+  color: #b63400;
+  width:700px;
+}
+ol li{
+  text-align: start;
+  font-size: 25px;
+}
+ul li{
+  text-align: start;
+  font-size: 25px;
+}
+.button:hover {
+  background-color: #0056b3;
+}
+
+.input-field {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.input-field:focus {
+  outline: none;
+  border-color: #007bff;
+}
