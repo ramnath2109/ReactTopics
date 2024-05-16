@@ -1,0 +1,59 @@
+.container {
+    width: 90vw;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #d4e5f7;
+  }
+  
+  h1 {
+    text-align: center;
+    color: rgb(92, 92, 11);
+  }
+  
+  .app {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .card {
+    width: 300px;
+    background-color: #e99797;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(255, 1, 1, 0.1);
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  
+  .title {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .content {
+    font-size: 1rem;
+  }
+  
+  .msg {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  h3{
+    color: brown;
+    text-align: start;
+  }
+  
