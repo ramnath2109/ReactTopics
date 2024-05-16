@@ -1,0 +1,49 @@
+/* Uncontrolledstyle.css */
+
+.container {
+    width: 90vw;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: rgb(124, 7, 7);
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  h4 {
+    font-size: 16px;
+    color: #666;
+    margin-top: 30px;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  button[type="submit"] {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
