@@ -1,0 +1,52 @@
+.container {
+    width: 90vw;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .heading {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .heading h1 {
+    color: #691616; /* Dark gray color */
+  }
+  
+  h1, h3, h4 {
+    color: #000000; /* Medium gray color */
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  img {
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  /* Additional styling for specific elements */
+  h1 {
+    font-size: 24px;
+  }
+  
+  h3 {
+    font-size: 18px;
+  }
+  
+  h4 {
+    font-size: 16px;
+  }
+  
+  /* Custom color for specific elements */
+  h1, h3, h4 {
+    color: #0a0947; /* Dark gray color */
+  }
+  
+  
